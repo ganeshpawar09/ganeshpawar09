@@ -1,11 +1,11 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ganesh Pawar</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A Passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpawar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshpawar09" /> </p>
 
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me **gapawar2003@gmail.com**
 
