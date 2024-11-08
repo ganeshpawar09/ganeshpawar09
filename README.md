@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=your_app_id">
+  <a href="https://play.google.com/store/apps/details?id=com.learningHub1.udhari">
     <img src="https://img.shields.io/badge/Play_Store-Udhari_4.7★-414141?style=for-the-badge&logo=google-play" alt="play store app"/>
   </a>
   <img src="https://img.shields.io/badge/Experience-3_Year+-0288D1?style=for-the-badge&logo=dev.to" alt="experience"/>
