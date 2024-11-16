@@ -67,44 +67,6 @@
 
 <hr/>
 
-<h2 align="center">🎯 Featured Projects 🎯</h2>
-<br/>
-
-<div align="center">
-  <div width="100%">
-    <h3 align="center">Chess.IO - Multiplayer Chess Platform</h3>
-    <a href="https://github.com/ganeshpawar09/chess.io">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ganeshpawar09&repo=chess.io&theme=react&border_radius=10" alt="chess.io"/>
-    </a>
-    <p align="center">
-      An interactive chess platform featuring real-time gameplay, WebRTC video calling, and Gemini API-powered chat translation
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io" />
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc" />
-    </p>
-  </div>
-  <br/>
-  <div width="100%">
-    <h3 align="center">FindMyNest - Property Rental Platform</h3>
-    <a href="https://github.com/ganeshpawar09/findmynest">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ganeshpawar09&repo=findmynest&theme=react&border_radius=10" alt="findmynest"/>
-    </a>
-    <p align="center">
-      A comprehensive rental property platform with location-based search, real-time chat, and advanced filtering
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io" />
-    </p>
-  </div>
-</div>
-
-<br/>
 <hr/>
 
 <h2 align="center">📊 GitHub Statistics 📊</h2>
