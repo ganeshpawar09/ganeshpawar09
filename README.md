@@ -67,8 +67,6 @@
 
 <hr/>
 
-<hr/>
-
 <h2 align="center">📊 GitHub Statistics 📊</h2>
 <br>
 <div align=center>
